@@ -1,0 +1,31 @@
+body{
+    background-color: #eee;
+    background-image: url(https://engenharia360.com/wp-content/uploads/2020/03/spacex-falcon-9-1024x570.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    h1{
+        font-size: 50px;
+        color:#47fe13;
+        border: 2px dashed orange;
+        }
+
+  li{
+    color: red;
+  
+    }
+
+    .yellow-text{
+        color: orange;
+        font-size: 20px;
+    }
+
+    .big-text{
+        font-size: 40px;
+    }    
+
+  #europa-text{
+    font-size: 10px;
+    color: #0000ff;
+  }
